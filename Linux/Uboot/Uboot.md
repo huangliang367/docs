@@ -1,1 +1,0 @@
-### <center>U-Boot</center>
